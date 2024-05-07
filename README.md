@@ -28,6 +28,9 @@ This is a simple weather application built using JavaScript, HTML, and CSS. It a
 
 ⌛️ Screenshots
 
+![weather 1](https://github.com/sathiyapriyacs/weather-Application/assets/167292003/d897eb08-0ab9-4f48-a34b-54bdcf83017e)
+
+
 
 
 
